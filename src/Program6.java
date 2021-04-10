@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Pg6 {
+public class Program6 {
     public static void main(String[] args){
         System.out.println("Enter the rows and columns in ascending order ");
         Scanner sc = new Scanner(System.in);
